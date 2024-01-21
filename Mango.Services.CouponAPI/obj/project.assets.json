@@ -4343,11 +4343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sunne\\source\\repos\\Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sunne\\Source\\Repos\\-Practice-Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
       "projectName": "Mango.Services.CouponAPI",
-      "projectPath": "C:\\Users\\sunne\\source\\repos\\Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "projectPath": "C:\\Users\\sunne\\Source\\Repos\\-Practice-Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
       "packagesPath": "C:\\Users\\sunne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sunne\\source\\repos\\Mango_Microservices\\Mango.Services.CouponAPI\\obj\\",
+      "outputPath": "C:\\Users\\sunne\\Source\\Repos\\-Practice-Mango_Microservices\\Mango.Services.CouponAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sunne\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4370,9 +4370,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -4433,7 +4430,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
