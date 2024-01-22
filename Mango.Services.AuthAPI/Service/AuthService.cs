@@ -69,7 +69,7 @@ namespace Mango.Services.AuthAPI.Service
             return loginResponseDto;
         }
 
-        public async Task<string> Register(RegisterationRequestDto registerationRequestDto)
+        public async Task<string> Register(RegistrationRequestDto registerationRequestDto)
         {
             ApplicationUser user = new ApplicationUser()
             {
