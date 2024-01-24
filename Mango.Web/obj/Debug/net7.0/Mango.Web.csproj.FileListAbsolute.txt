@@ -32,3 +32,8 @@ C:\Users\sunne\Source\Repos\-Practice-Mango_Microservices\Mango.Web\obj\Debug\ne
 C:\Users\sunne\Source\Repos\-Practice-Mango_Microservices\Mango.Web\obj\Debug\net7.0\Mango.Web.pdb
 C:\Users\sunne\Source\Repos\-Practice-Mango_Microservices\Mango.Web\obj\Debug\net7.0\Mango.Web.genruntimeconfig.cache
 C:\Users\sunne\Source\Repos\-Practice-Mango_Microservices\Mango.Web\obj\Debug\net7.0\ref\Mango.Web.dll
+C:\Users\sunne\source\repos\-Practice-Mango_Microservices\Mango.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sunne\source\repos\-Practice-Mango_Microservices\Mango.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sunne\source\repos\-Practice-Mango_Microservices\Mango.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sunne\source\repos\-Practice-Mango_Microservices\Mango.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sunne\source\repos\-Practice-Mango_Microservices\Mango.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
